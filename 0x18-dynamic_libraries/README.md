@@ -1,1 +1,1 @@
-Dynamic_libraries
+Dynamyc_Libraries
